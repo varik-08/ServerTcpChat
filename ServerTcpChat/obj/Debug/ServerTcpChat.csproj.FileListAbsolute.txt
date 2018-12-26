@@ -1,0 +1,10 @@
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\bin\Debug\ServerTcpChat.exe.config
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\bin\Debug\ServerTcpChat.exe
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\bin\Debug\ServerTcpChat.pdb
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.csprojAssemblyReference.cache
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.Form1.resources
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.Properties.Resources.resources
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.csproj.GenerateResource.cache
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.exe
+C:\Users\Ярослав\source\repos\ServerTcpChat\ServerTcpChat\obj\Debug\ServerTcpChat.pdb
